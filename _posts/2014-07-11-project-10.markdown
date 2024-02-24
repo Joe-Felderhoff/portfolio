@@ -11,7 +11,7 @@ client: Flight Performance Mechanics
 category: Aerospace Engineering
 link:
 Repolink: https://github.com/m-decicco/747Stability
-description: "&nbsp;&nbsp;&nbsp;&nbsp;The goal of this project was to determine the stability of a Boeing 747 under various perturbations."
-outcome: "&nbsp;&nbsp;&nbsp;&nbsp;Using the aircraft equations of motion, the 747 stability was solved in MATLAB. The results are shown on the poster and the code can be seen in the repository."
-teammates: Sydney Wickett
+description: "&nbsp;&nbsp;&nbsp;&nbsp; This class project was the final project of the class Flight Preformence Mechanics. In the project we studied and presented key parts of the Boeing 747's design, history and flight stability.'."
+outcome: "&nbsp;&nbsp;&nbsp;&nbsp; History and Design by Joseph Felderhoff and calculations by Cameron Palmer"
+teammates: Cameron Palmer 
 ---
